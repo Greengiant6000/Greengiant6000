@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Greengiant6000
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, HTML and CSS
 - 💞️ I’m looking to collaborate on blogging, music, and fun times
 - 📫 How to reach me keesraynor@hotmail.co.uk
 
